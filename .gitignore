@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore Composer's vendor directory and lock file
+/vendor/
+composer.lock
+
+# Ignore environment configuration files
+.env
+
+# Ignore other common directories that should not be in version control
+cache/
+temp/
+
+# Ignore specific files that may contain sensitive information
+config.php
+
+# Ignore output of PHPUnit
+/phpunit.xml
+/vendor/bin/.phpunit.result.cache
