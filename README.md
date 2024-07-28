@@ -10,4 +10,5 @@ Integrating Google Calendar with PHP as part of the assessment for Intuji.
 
 ## Screenshots
 
-![Login Page](/Screenshots/google-login.png)
+![Rough Sketch](/Screenshots/rough-sketch.png)  
+![Login Page](/Screenshots/google-login.png)  
